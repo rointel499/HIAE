@@ -1,0 +1,13 @@
+| Nome | Endereço | Tipo Sanguíneo | Telefone | Email |
+| --- | --- | --- | --- | --- |
+| Ana Silva | Av. Paulista, 123 | A+ | (11) 1234-5678 | ana.silva456t@gmail.com |
+| Bruno Santos | Rua Oscar Freire, 456 | B- | (23) 2345-6789 | bruno.santos098g@protonmail.com |
+| Carla Oliveira | Alameda Santos, 789 | AB+ | (11) 3456-7890 | carla.oliveira@einstein.br |
+| Daniel Souza | Rua Augusta, 321 | O- | (11) 4567-8901 | daniel.souza09s@yahoo.com.br |
+| Elisa Costa | Av. Brigadeiro Faria Lima, 654 | A- | (21) 5678-9012 | elisa.costa@einstein.br |
+| Fabio Lima | Rua Haddock Lobo, 987 | B+ | (11) 6789-0123 | fabio.lima345c@gmail.com|
+| Gabriela Rocha | Av. Rebouças, 147 | AB- | (74) 7890-1234 | gabrielat.rocha@gmail.com |
+| Henrique Almeida | Rua da Consolação, 258 | O+ | (11) 8901-2345 | henriquea.almeida@gmail.com |
+| Isabela Pereira | Av. Nove de Julho, 369 | A+ | (88) 9012-3456 | isabelac.pereiraa@yahoo.com |
+| João Fernandes | Rua Bela Cintra, 159 | B- | (61) 0123-4567 | joao67.fernandest@protonmail.com |
+ 
